@@ -1,0 +1,9 @@
+/home/almeiro/Documentos/MisionTic/Developer/proyectos/UCParking/UCParking.App/UCParking.App.Dominio/bin/Debug/netstandard2.0/UCParking.App.Dominio.deps.json
+/home/almeiro/Documentos/MisionTic/Developer/proyectos/UCParking/UCParking.App/UCParking.App.Dominio/bin/Debug/netstandard2.0/UCParking.App.Dominio.dll
+/home/almeiro/Documentos/MisionTic/Developer/proyectos/UCParking/UCParking.App/UCParking.App.Dominio/bin/Debug/netstandard2.0/UCParking.App.Dominio.pdb
+/home/almeiro/Documentos/MisionTic/Developer/proyectos/UCParking/UCParking.App/UCParking.App.Dominio/obj/Debug/netstandard2.0/UCParking.App.Dominio.csprojAssemblyReference.cache
+/home/almeiro/Documentos/MisionTic/Developer/proyectos/UCParking/UCParking.App/UCParking.App.Dominio/obj/Debug/netstandard2.0/UCParking.App.Dominio.AssemblyInfoInputs.cache
+/home/almeiro/Documentos/MisionTic/Developer/proyectos/UCParking/UCParking.App/UCParking.App.Dominio/obj/Debug/netstandard2.0/UCParking.App.Dominio.AssemblyInfo.cs
+/home/almeiro/Documentos/MisionTic/Developer/proyectos/UCParking/UCParking.App/UCParking.App.Dominio/obj/Debug/netstandard2.0/UCParking.App.Dominio.csproj.CoreCompileInputs.cache
+/home/almeiro/Documentos/MisionTic/Developer/proyectos/UCParking/UCParking.App/UCParking.App.Dominio/obj/Debug/netstandard2.0/UCParking.App.Dominio.dll
+/home/almeiro/Documentos/MisionTic/Developer/proyectos/UCParking/UCParking.App/UCParking.App.Dominio/obj/Debug/netstandard2.0/UCParking.App.Dominio.pdb

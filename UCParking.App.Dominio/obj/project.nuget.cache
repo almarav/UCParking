@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iS3mXKTgpsq55Cn7CsqG4cCsQT8feto7nFUvCfvZT90yhUSzcUa8e8sX0Xs7ziBAybF03DGqGyTSH3BVk+lO6Q==",
+  "success": true,
+  "projectFilePath": "/home/almeiro/Documentos/MisionTic/Developer/proyectos/UCParking/UCParking.App/UCParking.App.Dominio/UCParking.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "/home/almeiro/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/almeiro/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
